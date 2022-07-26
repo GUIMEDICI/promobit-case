@@ -1,4 +1,4 @@
-## Case - Promobit 
+## Case - Promobit ✔️
 
 Case da Promobit usando React - Uso da API de filmes [TMDB](https://developers.themoviedb.org/3/getting-started/introduction).
 
